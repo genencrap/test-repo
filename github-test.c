@@ -1,3 +1,5 @@
+// 박재성 , 202001512 , 컴퓨터전자시스템공학부
+
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
 #include<stdlib.h>
