@@ -3,6 +3,9 @@
 // for pull-reqeuest practice
 // by user 2
 
+//for question 1 처음 수정사항
+//for question 1 두번째 수정사항
+
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
 #include<stdlib.h>
