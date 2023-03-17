@@ -8,8 +8,14 @@
 
 
 //for question 2 user2 수정사항 
-
 //for question 2 user1 기존코드 수정사항
+
+//for question 3 user2 수정사항 line 13
+
+
+
+
+
 
 
 #define _CRT_SECURE_NO_WARNINGS
