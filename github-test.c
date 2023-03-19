@@ -22,6 +22,9 @@
 // user1 업데이트
 // user1 업데이트
 
+// user1 업데이트 추가
+// user1 업데이트가추가
+
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
 #include<stdlib.h>
