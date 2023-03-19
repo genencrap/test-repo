@@ -12,6 +12,11 @@
 // for question 3 user2 수정사항
 // for question 3 user1 수정사항
 
+// 새로운 업데이트 내용1
+// 새로운 업데이트 내용2
+// 새로운 업데이트 내용3
+// 새로운 업데이트 내용4
+
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
 #include<stdlib.h>
