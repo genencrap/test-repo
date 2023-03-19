@@ -9,8 +9,8 @@
 // for question 2 user2 수정사항
 // for question 2 기존코드 수정사항 
 
-
-
+// for question 3 user1 수정사항
+// for question 3 user1 수정사항
 
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
