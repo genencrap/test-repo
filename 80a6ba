@@ -3,3 +3,4 @@ if(__init__):
 else:
     this_is_ast_structure = "0"
     second_midify = "1"
+    modified="1"
