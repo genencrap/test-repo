@@ -1,0 +1,5 @@
+if(__init__):
+    dis_is_for_study = "1"
+else:
+    this_is_ast_structure = "0"
+    second_midify = "1"
